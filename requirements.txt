@@ -1,3 +1,13 @@
+notebook
+jupyterlab
+ipywidgets
+jupyter-lsp
+python-dotenv
+jupyterlab-lsp
+jedi-language-server
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+
 numpy
 pandas
 seaborn
