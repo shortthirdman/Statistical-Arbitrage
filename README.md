@@ -19,11 +19,13 @@ $ source statarb_env/bin/activate
 $ statarb_env\Scripts\activate
 
 $ pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
+
+$ jupyter lab --notebook-dir=.\notebooks --no-browser
 ```
 
 ---
 
-## References
+## 📑 References
 
 - [Statistical Arbitrage and Pairs Trading with Machine Learning](https://theaiquant.medium.com/statistical-arbitrage-and-pairs-trading-with-machine-learning-875a221c046c)
 
